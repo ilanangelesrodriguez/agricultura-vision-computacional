@@ -17,6 +17,11 @@ Este proyecto es para el curso de Inteligencia de Negocios con el Dr. Daza Verga
    - **Descripción**: Utiliza técnicas de procesamiento digital de señales para clasificar imágenes agrícolas basadas en características específicas.
    - **Carpeta**: `dsp_clasificacion-de-imagenes/`
 
+4. **YOLO Clasificacion de Imágenes**
+   - **Descripción**: Utiliza el algoritmo YOLO para clasificar imágenes agrícolas en varias categorías.
+   - **Carpeta**: `yolo_clasificacion-de-imagenes/`
+   - 
+
 ## Requisitos
 
 Para ejecutar los algoritmos, necesitarás los siguientes paquetes de Python:
